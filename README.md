@@ -1,3 +1,9 @@
+> **Ovia Inc fork** — We maintain this fork of [letta-ai/letta](https://github.com/letta-ai/letta), the platform for stateful agents — AI with advanced memory that can learn and self-improve over time, grown out of the MemGPT line of work on giving models an operating-system-style memory hierarchy.
+>
+> **Story:** Letta and Mem0 mark the two poles of agent memory: a platform that makes the agent itself stateful, versus a layer added underneath any agent. Holding both keeps the comparison honest when a build has to choose. The fork sits on the memory shelf for evaluation, with upstream development centred on the letta-code repository the README points to. Upstream credit: Letta (formerly MemGPT). License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
+---
+
 # Letta
 
 Build stateful agents with memory that can learn and improve over time.
